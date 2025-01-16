@@ -8,7 +8,7 @@ The Precise Positioning Challenge (PPC) is a challenge to develop technology to 
 - Provides reliable ground truth data
 
 # Download
-- [Download Link]() (200MB)
+- [Download Link](http://www.taroz.net/data/PPC-Dataset.zip) (158MB)
 
 # Directory Structure
 ```
@@ -23,6 +23,7 @@ PPC-Dataset
 │       │   rover.obs : RINEX observation data on vehicles
 │       │   imu.csv   : IMU data on vehicles
 │       │   reference.csv : Ground truth of vehicle position and attitude
+│       │   trajectory.kml : Trajectory of the vehicle 
 │   └───run2
 │       │   ...
 │   └───run3
@@ -68,3 +69,7 @@ Click [here](./tokyo) for more information
 - GNSS antenna mounting position (lever arm) viewed from IMU
   - Tokyo data: `0.31, 0.0, -0.55` (m)
   - Nagoya data: `0.593, -0.670, -1.216` (m)
+
+# Additional Information
+- [PPC2024 overview](http://taroz.net/data/PPC2024.pdf) (in Japanese)
+- [PPC2024 results](http://taroz.net/data/PPC2024_results.pdf) (in Japanese)
