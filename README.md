@@ -8,7 +8,7 @@ The Precise Positioning Challenge (PPC) is a challenge to develop technology to 
 - Provides reliable ground truth data
 
 # Download
-- [Download Link](http://www.taroz.net/data/PPC-Dataset.zip) (158MB)
+- [Download Link](https://drive.google.com/file/d/19bOSJpqblSTm6iSW5aaRekcSC2hUae9V/view?usp=drive_link) (158MB)
 
 # Directory Structure
 ```
